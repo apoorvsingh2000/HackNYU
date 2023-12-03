@@ -6,10 +6,9 @@ An app for all foodies.
 An app that recommends recipies and dishes to you based on the ingredients.
 
 # How to use
-There is a relese and a debug version attached. You can install the app on your android phone. 
-Enter the name of the ingredients that you have
-The App will smartly recommend you dishes based on those ingredients.
-Another AI feature that identifies the ingredient and tells you what it is using Image Recognition.
+1. Enter the name of the ingredients that you have
+2. The App will smartly recommend you dishes based on those ingredients.
+3. Another AI feature that identifies the ingredient and tells you what it is using Image Recognition.
 
 # Challenges faced
 Working with different aspects of AI and Database.
@@ -24,10 +23,10 @@ Making search option.
 > Figma </br>
 
 # Completion status
-Completed.
+Completed the app, few improvements can be made to the ML model.
 
 # Learning from the hack
-There is no ending to learning, there is always more to learn.
+How to efficiently manage time and utilize the most of it. Also, multitasking and collaborating.
 
 # Sneak Peak of our App 
 >![home](https://user-images.githubusercontent.com/68746915/102009508-d3d2ea00-3d5d-11eb-894f-9a55cec404a4.jpg)
