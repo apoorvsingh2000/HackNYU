@@ -1,2 +1,2 @@
 ### HackNYU
-Prokect for Hack NYU 2024.
+Project for Hack NYU 2024.
